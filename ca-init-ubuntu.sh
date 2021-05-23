@@ -63,5 +63,4 @@ git config --global credential.helper store
 echo "Initial preparation completed."
 
 # clone git repo
-echo "Clone git repo for deployment artifacts"
-git clone https://gitlab.kernello.com/cloudapper/artefacts/cloudapper-deployment.git
+
